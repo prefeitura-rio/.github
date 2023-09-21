@@ -1,12 +1,7 @@
-## Hi there 👋
 
-<!--
+👋 Este é o perfil oficial da Prefeitura da Cidade do Rio de Janeiro no Github.  
 
-**Here are some ideas to get you started:**
+💻 Para duvidas, acesse o canal no [Discord](https://discord.gg/WVjYf3VKEu) e converse com a equipe do Escritório de Dados.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="100%"
+src="https://prefeitura.rio/wp-content/uploads/2019/12/pao-de-acucar.png">
