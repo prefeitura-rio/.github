@@ -1,5 +1,5 @@
 
-👋 Este é o perfil oficial da Prefeitura da Cidade do Rio de Janeiro no Github.  
+🚀 Bem-vindo ao GitHub da Prefeitura do Rio! Aqui, criamos e compartilhamos soluções digitais para um Rio mais aberto.
 
 💻 Para duvidas, acesse o canal no [Discord](https://discord.gg/WVjYf3VKEu) e converse com a equipe do Escritório de Dados.
 
